@@ -15,3 +15,9 @@
    - question: List<Map.Entry<String, List<Obkect>>> 通过map的key取出List<Object>
    - expected: 否
    - author: XX
+
+4. git
+   - keyword: git ignore
+   - question: 如何将已经提交到远程的文件 ignore 掉
+   - expected: 是
+   - author: wangwang-zhang
