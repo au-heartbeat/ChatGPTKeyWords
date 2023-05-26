@@ -19,5 +19,12 @@
     "question": "如何将已经提交到远程的文件 ignore 掉",
     "expected": "是",
     "author": "wangwang.zhang"
+  },
+  {
+    "type": "test",
+    "keyword": "mock",
+    "question": "mock里有没有callback的方法，在when(csvFileGenerator.convertPipelineDataToCsv(any(), any()))后模拟创建csv",
+    "expected": "是",
+    "author": "ting.li"
   }
 ]
