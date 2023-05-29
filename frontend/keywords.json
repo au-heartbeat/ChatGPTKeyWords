@@ -5,5 +5,12 @@
     "question": "我现在有这样一个需求，我有两次请求，第一次请求会生成一个时间戳，这个时间戳是请求发出的时间,然后我想把这个时间戳保留下来，等我发送另一个请求时候，它会拿到这个时间戳作为参数，那我用react如何实现这样的功能?",
     "expected": "是",
     "author": "wangwang"
+  },
+  {
+    "type": "frontend",
+    "keyword": "dayjs format",
+    "question": "我的意思是format('YYYY-MM-DD-kk-mm-ss')适不适应dayjs",
+    "expected": "是",
+    "author": "wangwang"
   }
 ]
