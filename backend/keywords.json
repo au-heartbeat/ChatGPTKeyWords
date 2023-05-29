@@ -33,5 +33,12 @@
     "question": "后端给前端传InputStreamResource比直接传String有啥好处",
     "expected": "是",
     "author": "wangwang.zhang"
+  },
+  {
+    "type": "java",
+    "keyword": "InputStreamResource InputStream",
+    "question": "InputStreamResource 是什么，它与InputStream的区别是什么",
+    "expected": "是",
+    "author": "wangwang.zhang"
   }
 ]
